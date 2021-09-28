@@ -1,6 +1,6 @@
 # LK-study
-**补充更新ing...
-java,python,others**
+补充更新ing...
+`java`,`python`,others
 
 #### 📚计算机经典书籍
 #### 00、C语言
