@@ -1,6 +1,57 @@
 # LK-study
-补充更新ing...
-`java`,`python`,others
+
+<p align="center" style="color:blue">
+  <a href="https://www.baidu.com">
+    <h2 align="center">
+        持续更新中...
+    </h2>
+  </a>
+</p>
+
+<p>
+  <br>
+</p>
+自学之路漫又长，唯有不断总结，不断回味，不断分享，才能成长。
+
+加油
+
+## 零、学习路线/记录
+
+## 一、Java基础
+
+## 二、spring框架
+### 1.SpringCloud
+
+
+尚硅谷周阳老师
+https://github.com/leelovejava/cloud2020
+
+<img width="1014" alt="image" src="https://user-images.githubusercontent.com/91106847/142745297-da46885a-0fad-487e-abea-c4c426f5f864.png">
+
+
+
+### 2.SpringMVC
+
+
+## 三、缓存/中间件
+
+### 1.Redis
+
+### 2.kafka
+
+
+## 四、数据库
+
+
+
+
+## 推荐资源
+
+
+
+
+## 杂七杂八
+
 
 #### 📚计算机经典书籍
 #### 00、C语言
